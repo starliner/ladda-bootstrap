@@ -1,5 +1,5 @@
 {
-  "name": "Ladda for Bootstrap 3",
+  "name": "ladda-bootstrap",
   "version": "0.9.4",
   "description": "Buttons with built-in loading indicators, effectively bridging the gap between action and feedback",
   "main": "index.html",
