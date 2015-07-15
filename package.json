@@ -1,0 +1,19 @@
+{
+  "name": "Ladda for Bootstrap 3",
+  "version": "0.9.4",
+  "description": "Buttons with built-in loading indicators, effectively bridging the gap between action and feedback",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msurguy/ladda-bootstrap.git"
+  },
+  "author": "msurguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msurguy/ladda-bootstrap/issues"
+  },
+  "homepage": "https://github.com/msurguy/ladda-bootstrap"
+}
